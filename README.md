@@ -1,4 +1,4 @@
-# Thread-Safe In-Memory Cache (Java)
+# Thread-Safe In-Memory Cache 
 
 A high-performance, thread-safe in-memory cache system implemented in Java.  
 Supports TTL, LRU eviction, background cleanup, and real-time stats.
